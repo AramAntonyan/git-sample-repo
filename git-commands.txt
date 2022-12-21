@@ -2,6 +2,7 @@ git status
 git init
 git add
 git commit -m "Commit 4"
+
 ___________________________________________________________________
 Scenario 1:
 First Release --> Done
@@ -10,5 +11,8 @@ Second Release
 	2 People
 
 
+--------------------Master------------Release---------Master------------Master----------Release---------Master
+			|
+			|
+		PrivateBranch2-------------------------------
 
-________________________________________________________________________
