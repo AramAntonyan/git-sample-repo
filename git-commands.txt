@@ -2,3 +2,28 @@ git status
 git init
 git add
 git commit -m "Commit 4"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------Master------------Release---------Master------------Master----------Release---------Master
+			|
+			|
+		PrivateBranch2-------------------------------
