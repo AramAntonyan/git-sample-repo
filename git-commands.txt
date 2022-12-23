@@ -43,7 +43,4 @@ ________________________________________
 11.branch1
 12.branch1
 13.branch1
-11.branch1
-12.branch1
-13.branch1
 14. last try
