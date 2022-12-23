@@ -31,5 +31,7 @@ ___________________________________________________
 5. WHERE is a conflict!!!
 
 6. LOcal conflict on branch1
+________________________________________
+7. next conflict, on main branch
 
 
