@@ -1,6 +1,6 @@
 git status
 git init
-git add
+2. added changes in branch2
 git commit -m "Commit 4"
 
 ___________________________________________________________________
@@ -20,4 +20,5 @@ NewBranch1 was added.
 ________________________________________________________________________
 1. Added changes in branch1
 ________________________________________________________________________
+2. added changes in branch2
 
