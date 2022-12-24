@@ -32,27 +32,5 @@ ___________________________________________________
 
 6. LOcal conflict on branch1
 ________________________________________
-7. next conflict, on main branch
-6. LOcal conflict on branch1
-8. Local: new test_login page added.
-9. repo changes
-10. repo changes 2
-11.change main1
-12.change main2
-13.change main3
-11.branch1
-12.branch1
-13.branch1
-11.branch1
-12.branch1
-13.branch1
-14. last try
-15. repo change.
-16. 16 repo change
-17. 17 change
-19. get conflict main
-18. get conflict main
-18. get conflict aramant
-19. get conflict aramant
 
 
