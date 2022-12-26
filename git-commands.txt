@@ -55,4 +55,4 @@ ________________________________________
 
 git repo conflict first
 _________________________________
-16. trying merge in repo
+16. trying to merge in repo
